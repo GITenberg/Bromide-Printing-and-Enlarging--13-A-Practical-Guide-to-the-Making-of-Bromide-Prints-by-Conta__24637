@@ -1,0 +1,31 @@
+_repo: Bromide-Printing-and-Enlarging--13-A-Practical-Guide-to-the-Making-of-Bromide-Prints-by-Conta__24637
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tennant, John A.
+    gutenberg_agent_id: '26639'
+    url: http://www.gutenberg.org/2009/agents/26639
+description: ''
+gutenberg_bookshelf:
+- Art
+- Technology
+- Photography
+gutenberg_issued: '2008-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24637'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TR'
+- !lcsh 'Photography -- Printing processes -- Silver'
+- !lcsh 'Photography -- Enlarging'
+title: "Bromide Printing and Enlarging\r\nA Practical Guide to the Making of Bromide\
+  \ Prints by Contact and Bromide Enlarging by Daylight and Artificial Light, With\
+  \ the Toning of Bromide Prints and Enlargements"
+url: http://www.gutenberg.org/ebooks/24637
